@@ -1,43 +1,43 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object 🙋 used
+  - Object 👂 heard
   - this 👂 heard
-  - arrow function 🙋 used
+  - arrow function 👂 heard
   - async function 👂 heard
   - call 👂 heard
   - bind 👂 heard
   - apply 👂 heard
   - instanceof 👂 heard
-  - ...spread 👂 heard
-  - ...rest 👂 heard
+  - ...spread
+  - ...rest
   - typeof 👂 heard
   - destructuring 👂 heard
-  - generator 👂 heard
-  - iterator 👂 heard
+  - generator
+  - iterator
   - async generator
   - async iterator 👂 heard
-  - chaining 🙋 used
+  - chaining 👂 heard
   - optional chaining
-  - IIFE 👂 heard
+  - IIFE
   - global 👂 heard
   - globalThis 👂 heard
   - window 👂 heard
   - getters and setters 👂 heard
-  - __proto__ 👂 heard
-  - prototype 👂 heard 
+  - __proto__
+  - prototype 
   - equality operators 👂 heard
   - logical operators 👂 heard
   - bitwise operators 👂 heard
   - ternary operator 👂 heard
   - void 👂 heard
-  - yield 👂 heard
+  - yield
   - await 👂 heard
   - template literal 👂 heard
   - strict mode 👂 heard
   - delete 👂 heard
   - in 👂 heard
-  - super 👂 heard
+  - super
   - Symbol 👂 heard
   - Reflect
 - Statements
@@ -51,8 +51,8 @@
   - throw 👂 heard
   - break 🙋 used
   - continue 👂 heard
-  - import 👂 heard
-  - export 👂 heard
+  - import
+  - export
   - label
   - try..catch 👂 heard
   - switch 🙋 used
@@ -78,12 +78,12 @@
   - weak collections 👂 heard
   - timers 👂 heard
   - EventEmitter 👂 heard
-  - RegExp 👂 heard
+  - RegExp
   - Date 👂 heard
-  - BigInt 👂 heard
+  - BigInt
 - Infrastructure
-  - V8 👂 heard
-  - Node.js 🙋 used
-  - npm 🙋 used
+  - V8
+  - Node.js 👂 heard
+  - npm 👂 heard
   - prettier 👂 heard
-  - MDN 👂 heard
+  - MDN

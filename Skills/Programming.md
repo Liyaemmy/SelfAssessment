@@ -1,15 +1,15 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value 🙋 used
-  - identifier 🙋 used
-  - variable 🙋 used
-  - constant 🙋 used
+  - value 👂 heard
+  - identifier 👂 heard
+  - variable 👂 heard
+  - constant 👂 heard
   - scalar
   - literal
-  - expression 🙋 used
+  - expression 👂 heard
   - heap
-  - function 🙋 used
+  - function 👂 heard
   - procedure
   - method 👂 heard
   - class 👂 heard
@@ -20,10 +20,10 @@
   - reference types 👂 heard
   - flag
   - lexical scope
-  - code block 🙋 used
-  - conditions 🙋 used
+  - code block 👂 heard
+  - conditions 👂 heard
   - loops 👂 heard
-  - assignment 🙋 used
+  - assignment 👂 heard
   - regular expression
   - interface 👂 heard
   - contract
@@ -34,14 +34,14 @@
   - argument 👂 heard
   - parameter 👂 heard
   - pure function 👂 heard
-  - lambda expression 🙋 used
-  - side effects 🙋 used
+  - lambda expression 👂 heard
+  - side effects 👂 heard
   - closure 👂 heard
   - partial application 👂 heard
   - curry 👂 heard
   - higher order
   - recursion 👂 heard
-  - callback 🙋 used
+  - callback 👂 heard
   - listener 👂 heard
   - compose 👂 heard
   - pipe
@@ -58,7 +58,7 @@
   - record 👂 heard
   - enum 👂 heard
   - instance 👂 heard
-  - object 🙋 used
+  - object 👂 heard
   - class 👂 heard
   - collection 👂 heard
   - set 👂 heard
@@ -102,5 +102,5 @@
   - exception 👂 heard
   - return early 👂 heard
   - unittest
-  - git 🙋 used
-  - github 🙋 used
+  - git 👂 heard
+  - github 👂 heard

@@ -11,9 +11,9 @@
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time) 👂 heard
 - Modularity, layers and dependencies
-  - CommonJS modules 👂 heard
-  - ECMAScript modules 👂 heard
-  - node:module 👂 heard
+  - CommonJS modules
+  - ECMAScript modules
+  - node:module
   - Caching in CJS and ESM
   - Modules as singletons 🙋 used
   - Contexts and scripts node:vm
@@ -21,7 +21,7 @@
   - Dependencies: package.json and package lock 🙋 used
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection 👂 heard
+  - Dependency injection
   - DI containers
   - Coupling and cohesion
   - Framework agnostic approach
@@ -62,7 +62,7 @@
   - Module node:zlib
 - Application structure and architecture
   - Isolation between layer 👂 heard
-  - Multilayer approach 👂 heard
+  - Multilayer approach
   - Separation of concerns
   - Inversion of control
   - Dependency injection 👂 heard
@@ -72,7 +72,7 @@
   - Distributed systems
   - Highload applications
   - Clean architecture
-  - DDD 👂 heard
+  - DDD
   - Message Queue
   - CQS
   - CQRS
@@ -86,7 +86,7 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S) 🙋 used
+  - HTTP(S) 👂 heard
   - TCP/SSL
   - UDP
   - TLS
@@ -114,10 +114,10 @@
   - Protocol agnostic approach
 - Technique and tools
   - Native test runner 👂 heard
-  - Logging 👂 heard
+  - Logging
   - Application configuring 👂 heard
-  - Testing 👂 heard
-  - CI/CD 👂 heard
+  - Testing
+  - CI/CD
   - Readable 👂 heard
   - Writable 👂 heard
   - Transform

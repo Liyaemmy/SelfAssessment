@@ -5,13 +5,13 @@
   - Imperative programming 👂 heard
   - Structured programming
   - Non-structured programming
-  - Functional programming 🙋 used
+  - Functional programming 👂 heard
   - Prototype-based programming 👂 heard
   - Object-oriented programming 👂 heard
-  - Object-based programming 👂 heard
+  - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asyncronous programming 🙋 used
+  - Asyncronous programming
   - Parallel programming
   - Reactive programming 👂 heard
   - FRP (Functional-reactive)
@@ -24,17 +24,17 @@
   - constructor 👂 heard
   - new 👂 heard
   - Static method
-  - Method 🙋 used
-  - Async method 🙋 used
-  - Getters, Setters 👂 heard
-  - Public fields 👂 heard
-  - Private fields  👂 heard
+  - Method 👂 heard
+  - Async method 👂 heard
+  - Getters, Setters
+  - Public fields
+  - Private fields
   - Field declarations
-  - Inheritance 👂 heard
-  - Parent class 👂 heard
-  - Polymorphism 👂 heard
-  - Abstract class 👂 heard
-  - Interface 👂 heard
+  - Inheritance
+  - Parent class
+  - Polymorphism
+  - Abstract class
+  - Interface
   - Encapsulation
   - Hidden class
   - Object form
@@ -42,17 +42,17 @@
   - Introspection
   - Reflection
 - Patterns
-  - Singleton 👂 heard
-  - Factory Method 👂 heard
+  - Singleton
+  - Factory Method
   - Abstract Factory
-  - Adapter 👂 heard
-  - Observer 👂 heard
+  - Adapter
+  - Observer
   - Strategy
   - Facade
-  - Proxy 👂 heard
+  - Proxy
   - Chain of Responsibility
   - Command
-  - Iterator 👂 heard
+  - Iterator
   - State
   - Bridge
   - Builder
